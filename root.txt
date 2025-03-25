@@ -1,0 +1,13 @@
+
+---
+
+### 🛠 Tools Used
+- `nmap`
+- `gobuster`
+- `ssh`
+- `linpeas`
+- `strings`, `chmod`, `suid`
+
+---
+
+_This writeup is for personal knowledge consolidation and demonstration of process. Flags and usernames are redacted or placeholder._
