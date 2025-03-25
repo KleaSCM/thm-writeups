@@ -7,6 +7,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CediLia&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CediLia&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🧠 Who Am I?
 
 I'm **CyDieLia** — a cybersecurity student and full-stack dev transitioning into the art of ethical hacking.  
@@ -44,6 +54,19 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 ---
 
+### ✍️ Featured Writeups
+
+<p align="center">
+  <a href="https://github.com/CediLia/thm-writeups">
+    <img src="https://img.shields.io/badge/THM%20Writeups-Explore%20Now-%2300ffcc?style=for-the-badge&logo=markdown&logoColor=black" alt="TryHackMe Writeups Badge" />
+  </a>
+</p>
+
+> 📚 Clean, structured walkthroughs from [TryHackMe](https://tryhackme.com/p/CyDieLia).  
+> Reinforcing skills. No flag dumps. Just raw methodology.
+
+---
+
 ### 🎯 Goals
 
 - [x] Finish TryHackMe Pre-Security & Offensive Pentesting Paths  
@@ -62,4 +85,18 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 ---
 
-> _“The quieter the hacker, the louder the shell.”_ — ancient goblin proverb ☠️
+### 🧠 TryHackMe Stats
+
+<p align="center">
+  <img src="https://tryhackme-badges.vercel.app/api/CyDieLia" alt="TryHackMe Stats" />
+</p>
+
+---
+
+<pre>
+user@cybergoblin:~$ sudo gain-root --on-life
+[sudo] password for CyDieLia: *********
+root@cybergoblin:~# echo "Hack the planet."
+Hack the planet.
+</pre>
+
